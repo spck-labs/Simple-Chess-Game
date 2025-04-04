@@ -8,6 +8,8 @@ The prompt used in Claude Sonnet was something like:
 Create a simple chess game, and make it look nice using tailwind css. The pieces on the board should all move according to the rules of chess and include logic for special moves like en passant and castling. The output should be in HTML and vanilla javascript.
 ```
 
+[Checkout Demo](https://spck.io/labs/9Ft1iGolS)
+
 This implementation provides:
 
 ✅ Full chess board rendering
@@ -23,7 +25,6 @@ Key features:
 - Responsive layout
 
 Limitations in this version:
-- Simplified movement rules
 - Basic game state management
 
 [Github Repo](https://github.com/spck-labs/Simple-Chess-Game)
